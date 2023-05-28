@@ -1,0 +1,61 @@
+*{
+    background-color: cornflowerblue;
+    }
+    .app_head_text{
+      text-align: left;
+      margin-left: 80px;
+      font-size: 25px;
+      font-family: sans-serif;
+     font-weight: 700;
+      
+    }
+    .app_button{
+      
+      width: 350px;
+      height: 40px;
+      margin-left: 80px;
+      margin-top: 100px;
+      border: 1px solid white;
+      color: black;
+      border-radius: 8px;
+      background-color: white;
+      font-family: sans-serif;
+      
+    }
+
+    .button{
+      width: 50px;
+      height: 40px;
+      margin-left: 80px;
+      margin-top: 100px;
+      border: 1px solid white;
+      color: black;
+      border-radius: 8px;
+      background-color: white;
+      font-family: sans-serif;
+    }
+
+    .ReactTable .rt-thead .rt-th.-cursor-pointer {
+      background-color: #eaedf1;
+      padding: 8px;
+      mix-blend-mode: normal;
+      text-align: center;
+      opacity: 1;
+      color: #000;
+      font-size: 14px;
+      font-weight: 400;
+      //font-family: $font-name-Roboto-Medium;
+      //  overflow-y: visible;
+    }
+    
+    .ReactTable .rt-tbody {
+      text-align: center;
+      overflow-y: visible;
+      scrollbar-color: red;
+      overflow: initial !important;
+    }
+    
+   
+     
+    
+  
